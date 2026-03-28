@@ -77,17 +77,6 @@ This project involved transforming a raw, unformatted pharmaceutical invoice wor
 
 ---
 
-## 📈 Key Results
-
-| Metric | Value |
-|---|---|
-| 📄 Total Invoices | 11 |
-| 💰 Total Amount Due | $37,067.50 |
-| 📊 Average Invoice | $3,356.38 |
-| ⬆ Max Invoice | $4,506.22 |
-| ⬇ Min Invoice | $2,128.09 |
-
----
 
 ## 💡 Skills Demonstrated
 
@@ -100,8 +89,7 @@ This project involved transforming a raw, unformatted pharmaceutical invoice wor
 ## 🚀 About Me
 
 I'm **Felix Onyango**, a Data Analytics enthusiast based in Mombasa, Kenya 🇰🇪, passionate about turning raw data into clear, actionable insights.
-
-📬 Connect with me on [LinkedIn](https://www.linkedin.com) | ⭐ Star this repo if you found it helpful!
+⭐ Star this repo if you found it helpful!
 
 ---
 
